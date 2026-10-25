@@ -11,9 +11,9 @@ if(size){let mode='without';const prices={without:[2900,3200,3500,4000],with:[22
 
 // EMAILJS: paste the three dashboard values here. Never use a private key.
 const EMAILJS_CONFIG = {
-  publicKey: '',
-  serviceId: '',
-  templateId: ''
+  publicKey: 'UoI8hHVCTgCXfkDep',
+  serviceId: 'service_uw4j14i',
+  templateId: 'template_acy9n86'
 };
 
 const contactForm = document.querySelector('#contact-form');
